@@ -25,3 +25,10 @@ I'm working with...
 And I wanna learn TypeScript.
 
 But I'm not super good at all of them.
+
+---
+
+## Things I've made
+These are things that I've made. Please take a look and enjoy!
+* [dotmaker](https://tybob8010.github.io/dotmaker/) This is a website for making pixel art.
+* [TimeViewer](https://github.com/tybob8010/TimeViewer) This is an
