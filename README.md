@@ -30,5 +30,9 @@ But I'm not super good at all of them.
 
 ## Things I've made
 These are things that I've made. Please take a look and enjoy!
+* [my website](https://tybob8010.github.io) This is my **OFFICIAL** website.
 * [dotmaker](https://tybob8010.github.io/dotmaker/) This is a website for making pixel art.
-* [TimeViewer](https://github.com/tybob8010/TimeViewer) This is an
+* [TimeViewer](https://github.com/tybob8010/TimeViewer) This is an extension for browsers.
+* [CookieClickerBasicMod(CCBM)](https://github.com/tybob8010/CookieClickerBasicMod_CCBM) This is a MOD for CookieClicker. **It's building now.**
+
+If you want to see more, please check out my GitHub account.
