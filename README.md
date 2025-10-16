@@ -1,4 +1,6 @@
 ![bannerpng](bird3_1200px.png)
+If you want to see this page in ENGLISH, [please click here](#Welocometomygithub)
+
 # Welcome to my Github!
 
 Join our [Discord server!](https://discord.com/invite/YFg4suWa6a)
