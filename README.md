@@ -1,7 +1,7 @@
 ![bannerpng](bird3_1200px.png)
 If you want to see this page in ENGLISH, [please click here](#welocome-to-my-github)
 
-# ようこそ我がプロフィールへ
+# ようこそ我がGitHubへ
 
 Discordは[こちら](https://discord.com/invite/YFg4suWa6a)。
 
@@ -27,14 +27,14 @@ Discordは[こちら](https://discord.com/invite/YFg4suWa6a)。
 あといつかTypeScriptも学びたいと思っています。
 
 
-## Things I've made
-These are things that I've made. Please take a look and enjoy!
-* [my website](https://tybob8010.github.io) This is my **OFFICIAL** website.
-* [dotmaker](https://tybob8010.github.io/dotmaker/) This is a website for making pixel art.
-* [TimeViewer](https://github.com/tybob8010/TimeViewer) This is an extension for browsers.
-* [CookieClickerBasicMod(CCBM)](https://github.com/tybob8010/CookieClickerBasicMod_CCBM) This is a MOD for CookieClicker. **It's building now.**
+## 作ったもの
+ぜひ見てみてください。
+* [ホームページ](https://tybob8010.github.io) 私の**公式**ページです。
+* [ドット絵エディタ](https://tybob8010.github.io/dotmaker/) ドット絵を描けるブラウザソフトです。
+* [TimeViewer](https://github.com/tybob8010/TimeViewer) 画面右下に時計を表示する拡張機能です。
+* [CookieClickerBasicMod(CCBM)](https://github.com/tybob8010/CookieClickerBasicMod_CCBM) クッキークリッカーのMODです。 **作成中**
 
-If you want to see more, please check out my repository.
+他にもいろいろあるので、良かったら私のリポジトリを見てください。
 
 ---
 
