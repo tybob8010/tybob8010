@@ -1,7 +1,7 @@
 ![bannerpng](bird3_1200px.png)
-If you want to see this page in ENGLISH, [please click here](#Welocometomygithub)
+If you want to see this page in ENGLISH, [please click here](#Welocome to my GitHub)
 
-# Welcome to my Github!
+# Welcome to my GitHub!
 
 Join our [Discord server!](https://discord.com/invite/YFg4suWa6a)
 
