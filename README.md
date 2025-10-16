@@ -1,6 +1,6 @@
 ![bannerpng](bird3_1200px.png)
 
-If you want to see this page in ENGLISH, Please click [HERE](#welcome-to-my-github)
+### _*If you want to see this page in ENGLISH, Please click [HERE](#welcome-to-my-github).*_
 
 # ようこそ我がGitHubへ
 
@@ -11,6 +11,7 @@ Discordは[こちら](https://discord.com/invite/YFg4suWa6a)。
 こんにちは。ぼぶです。サイト、ゲーム、MOD、拡張機能を作っています。
 
 洋画が大好きです。一番好きなのは、コマンドー(1985年)です。
+
 ゲームはほとんどプレイしないけど、クッキークリッカーだけはやっています🍪
 
 だからステータスメッセージは「I'm always baking cookies.🍪」です。
