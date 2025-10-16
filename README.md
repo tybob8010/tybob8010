@@ -35,4 +35,4 @@ These are things that I've made. Please take a look and enjoy!
 * [TimeViewer](https://github.com/tybob8010/TimeViewer) This is an extension for browsers.
 * [CookieClickerBasicMod(CCBM)](https://github.com/tybob8010/CookieClickerBasicMod_CCBM) This is a MOD for CookieClicker. **It's building now.**
 
-If you want to see more, please check out my GitHub account.
+If you want to see more, please check out my repository.
