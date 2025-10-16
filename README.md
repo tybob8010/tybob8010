@@ -1,5 +1,5 @@
 ![bannerpng](bird3_1200px.png)
-If you want to see this page in ENGLISH, [please click here](#Welocome to my GitHub)
+If you want to see this page in ENGLISH, [please click here](#welocome-to-my-github)
 
 # Welcome to my GitHub!
 
