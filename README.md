@@ -24,9 +24,7 @@ Discordは[こちら](https://discord.com/invite/YFg4suWa6a)。
 
 の二つの言語を使用しています。
 
-ただ得意ってわけじゃない...
-
-あといつかTypeScriptも学びたいと思っています。
+まあ、得意ってわけじゃない...
 
 
 ## 作ったもの
@@ -34,9 +32,8 @@ Discordは[こちら](https://discord.com/invite/YFg4suWa6a)。
 * [ホームページ](https://tybob8010.github.io) 私の**公式**ページです。
 * [ドット絵エディタ](https://tybob8010.github.io/dotmaker/) ドット絵を描けるブラウザソフトです。
 * [TimeViewer](https://github.com/tybob8010/TimeViewer) 画面右下に時計を表示する拡張機能です。
-* [CookieClickerBasicMod(CCBM)](https://github.com/tybob8010/CookieClickerBasicMod_CCBM) クッキークリッカーのMODです。 **作成中**
-
-他にもいろいろあるので、良かったら私のリポジトリを見てください。
+* 
+他はリポジトリを見て。
 
 ---
 
@@ -71,6 +68,5 @@ These are things that I've made. Please take a look and enjoy!
 * [my website](https://tybob8010.github.io) This is my **OFFICIAL** website.
 * [dotmaker](https://tybob8010.github.io/dotmaker/) This is a website for making pixel art.
 * [TimeViewer](https://github.com/tybob8010/TimeViewer) This is an extension for browsers.
-* [CookieClickerBasicMod(CCBM)](https://github.com/tybob8010/CookieClickerBasicMod_CCBM) This is a MOD for CookieClicker. **It's building now.**
 
 If you want to see more, please check out my repository.
