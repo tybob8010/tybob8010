@@ -4,7 +4,7 @@
 
 # ようこそ我がGitHubへ
 
-Discordは[こちら](https://discord.com/invite/YFg4suWa6a)。
+Discordは[こちら](https://discord.gg/Nb5cw8raFe)。
 
 
 ## プロフィール
@@ -39,7 +39,7 @@ Discordは[こちら](https://discord.com/invite/YFg4suWa6a)。
 
 # Welcome to my GitHub!
 
-Join our [Discord server!](https://discord.com/invite/YFg4suWa6a)
+Join our [Discord server!](https://discord.gg/Nb5cw8raFe)
 
 
 ## Who am I?
