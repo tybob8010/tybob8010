@@ -8,7 +8,7 @@ Discordは[こちら](https://discord.gg/Nb5cw8raFe)。
 
 
 ## プロフィール
-こんにちは。ぼぶです。サイト、ゲーム、MOD、拡張機能を作っています。
+こんにちは。ぼぶです。サイト、ゲーム、拡張機能を作っています。
 
 洋画が大好きです。一番好きなのは、コマンドー(1985年)です。
 
@@ -43,7 +43,7 @@ Join our [Discord server!](https://discord.gg/Nb5cw8raFe)
 
 
 ## Who am I?
-Hello, I'm tybob8010. I'm making some sites, games, MODs, and extensions for browser.
+Hello, I'm tybob8010. I'm making some sites, games, and extensions for browser.
 
 I love movies. Favorite is COMMANDO(1985)
 
@@ -57,8 +57,6 @@ That's why my status message is "I'm always baking cookies."
 I'm working with...
 * C++
 * JavaScript
-
-And I wanna learn TypeScript.
 
 But I'm not super good at all of them.
 
