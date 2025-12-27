@@ -4,7 +4,7 @@
 
 # ようこそ我がGitHubへ
 
-Discordは[こちら](https://discord.gg/Nb5cw8raFe)。
+Discordは[こちら](https://discord.com/invite/PYQr6WN9a3)。
 
 
 ## プロフィール
@@ -32,7 +32,6 @@ Discordは[こちら](https://discord.gg/Nb5cw8raFe)。
 * [ホームページ](https://tybob8010.github.io) 私の**公式**ページです。
 * [ドット絵エディタ](https://tybob8010.github.io/dotmaker/) ドット絵を描けるブラウザソフトです。
 * [TimeViewer](https://github.com/tybob8010/TimeViewer) 画面右下に時計を表示する拡張機能です。
-* 
 他はリポジトリを見て。
 
 ---
