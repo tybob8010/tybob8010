@@ -4,17 +4,19 @@
 
 # ようこそ我がGitHubへ
 
-Discordは[こちら](https://discord.com/invite/PYQr6WN9a3)。
+Discordは[**こちら**](https://discord.com/invite/PYQr6WN9a3)。
 
 
 ## プロフィール
-こんにちは。ぼぶです。サイト、ゲーム、拡張機能を作っています。
+こんにちは。ぼぶです。サイト、ゲーム、MOD、拡張機能を作っています。
 
 洋画が大好きです。一番好きなのは、コマンドー(1985年)です。
 
 ゲームはほとんどプレイしないけど、クッキークリッカーだけはやっています🍪
 
 だからステータスメッセージは「I'm always baking cookies.🍪」です。
+
+**2026/01/19～ジョジョの奇妙な冒険オラオラオーバードライブをやり始めました！！！**
 
 
 ## 使用言語
@@ -32,26 +34,29 @@ Discordは[こちら](https://discord.com/invite/PYQr6WN9a3)。
 * [ホームページ](https://tybob8010.github.io) 私の**公式**ページです。
 * [ドット絵エディタ](https://tybob8010.github.io/dotmaker/) ドット絵を描けるブラウザソフトです。
 * [TimeViewer](https://github.com/tybob8010/TimeViewer) 画面右下に時計を表示する拡張機能です。
+* [ジョジョスタンドジェネレーター](https://tybob8010.github.io/jojostand/) ジョジョのスタンド解説風なチャートを作るサイトです。
 他はリポジトリを見て。
 
 ---
 
 # Welcome to my GitHub!
 
-Join our [Discord server!](https://discord.gg/Nb5cw8raFe)
+Join my [**Discord server**](https://discord.gg/Nb5cw8raFe)!
 
 
 ## Who am I?
-Hello, I'm tybob8010. I'm making some sites, games, and extensions for browser.
+Hello, I'm tybob8010. I'm making some sites, games, MODs, and extensions for browser.
 
 I love movies. Favorite is COMMANDO(1985)
 
 I'm not really into games, except for Cookie Clicker🍪.
 
-That's why my status message is "I'm always baking cookies."
+That's why my status message is "I'm always baking cookies.🍪"
+
+“I started playing JoJo’s Bizarre Adventure: Ora Ora Overdrive on January 19, 2026!!!”
 
 
-## What am I building?
+## What am I making?
 
 I'm working with...
 * C++
@@ -65,5 +70,6 @@ These are things that I've made. Please take a look and enjoy!
 * [my website](https://tybob8010.github.io) This is my **OFFICIAL** website.
 * [dotmaker](https://tybob8010.github.io/dotmaker/) This is a website for making pixel art.
 * [TimeViewer](https://github.com/tybob8010/TimeViewer) This is an extension for browsers.
+* [JoJo Stand Generator](https://tybob8010.github.io/jojostand) A website where you can create a chart in the style of a JoJo's Bizarre Adventure Stand explanation.
 
 If you want to see more, please check out my repository.
