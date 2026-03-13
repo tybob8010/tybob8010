@@ -4,7 +4,7 @@
 
 # ようこそ我がGitHubへ
 
-Discordは[**こちら**](https://discord.com/invite/PYQr6WN9a3)。
+### Discordは[**こちら**](https://discord.com/invite/PYQr6WN9a3)。
 
 
 ## プロフィール
@@ -16,7 +16,7 @@ Discordは[**こちら**](https://discord.com/invite/PYQr6WN9a3)。
 
 だからステータスメッセージは「I'm always baking cookies.🍪」です。
 
-**2026/01/19～ジョジョの奇妙な冒険オラオラオーバードライブをやり始めました！！！**
+2026/01/19～ジョジョの奇妙な冒険オラオラオーバードライブ(TapFun版)をやり始めました！！！
 
 
 ## 使用言語
@@ -35,13 +35,14 @@ Discordは[**こちら**](https://discord.com/invite/PYQr6WN9a3)。
 * [ドット絵エディタ](https://tybob8010.github.io/dotmaker/) ドット絵を描けるブラウザソフトです。
 * [TimeViewer](https://github.com/tybob8010/TimeViewer) 画面右下に時計を表示する拡張機能です。
 * [ジョジョスタンドジェネレーター](https://tybob8010.github.io/jojostand/) ジョジョのスタンド解説風なチャートを作るサイトです。
+* [AutoClicker](https://tybob8010.github.io/AutoClicker/) 自動終了機能を持つ連打ツールです。
 他はリポジトリを見て。
 
 ---
 
 # Welcome to my GitHub!
 
-Join my [**Discord server**](https://discord.gg/Nb5cw8raFe)!
+### Join my [**Discord server**](https://discord.gg/Nb5cw8raFe)!
 
 
 ## Who am I?
@@ -53,7 +54,7 @@ I'm not really into games, except for Cookie Clicker🍪.
 
 That's why my status message is "I'm always baking cookies.🍪"
 
-“I started playing JoJo’s Bizarre Adventure: Ora Ora Overdrive on January 19, 2026!!!”
+I started playing JoJo’s Bizarre Adventure: Ora Ora Overdrive on January 19, 2026!!!
 
 
 ## What am I making?
@@ -71,5 +72,6 @@ These are things that I've made. Please take a look and enjoy!
 * [dotmaker](https://tybob8010.github.io/dotmaker/) This is a website for making pixel art.
 * [TimeViewer](https://github.com/tybob8010/TimeViewer) This is an extension for browsers.
 * [JoJo Stand Generator](https://tybob8010.github.io/jojostand) A website where you can create a chart in the style of a JoJo's Bizarre Adventure Stand explanation.
+* [AutoClicker](https://tybob8010.github.io/AutoClicker/) This is an auto-clicker with an automatic stop function.
 
 If you want to see more, please check out my repository.
