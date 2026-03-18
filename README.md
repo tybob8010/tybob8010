@@ -36,6 +36,7 @@
 * [TimeViewer](https://github.com/tybob8010/TimeViewer) 画面右下に時計を表示する拡張機能です。
 * [ジョジョスタンドジェネレーター](https://tybob8010.github.io/jojostand/) ジョジョのスタンド解説風なチャートを作るサイトです。
 * [AutoClicker](https://tybob8010.github.io/AutoClicker/) 自動終了機能を持つ連打ツールです。
+* [CCACM(Cookie Clicker Auto Closing MOD)](https://tybob8010.github.io/AutoClicker/) CookieClickerを自動で終了させるMOD。指定時間にセーブしてタブを閉じます。
 他はリポジトリを見て。
 
 ---
@@ -73,5 +74,6 @@ These are things that I've made. Please take a look and enjoy!
 * [TimeViewer](https://github.com/tybob8010/TimeViewer) This is an extension for browsers.
 * [JoJo Stand Generator](https://tybob8010.github.io/jojostand) A website where you can create a chart in the style of a JoJo's Bizarre Adventure Stand explanation.
 * [AutoClicker](https://tybob8010.github.io/AutoClicker/) This is an auto-clicker with an automatic stop function.
+* [CCACM(Cookie Clicker Auto Closing MOD)](https://tybob8010.github.io/AutoClicker/) A mod that automatically closes Cookie Clicker. It saves your progress at a specified time and then closes the tab.
 
 If you want to see more, please check out my repository.
