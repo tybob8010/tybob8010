@@ -8,7 +8,7 @@
 
 
 ## プロフィール
-こんにちは。ぼぶです。サイト、ゲーム、MOD、拡張機能を作っています。
+こんにちは。ぼぶです。サイト・ブラウザゲーム、拡張機能、アプリケーション、MODを作っています。
 
 洋画が大好きです。一番好きなのは、コマンドー(1985年)です。
 
@@ -47,7 +47,7 @@
 
 
 ## Who am I?
-Hello, I'm tybob8010. I'm making some sites, games, MODs, and extensions for browser.
+Hello, I'm tybob8010. I'm making some sites & browser games, extensions for browserand, apps, and MODs.
 
 I love movies. Favorite is COMMANDO(1985)
 
